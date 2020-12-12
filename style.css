@@ -1,0 +1,25 @@
+label, input, textarea{
+    display: block;
+}
+
+.status{
+    color: red;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+  background-size: auto;
+}
+.avatar {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin: 8%;
+}
+.margin {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin: 8%;
+}
+img {
+  border-radius: 50%;
+}
